@@ -1,16 +1,14 @@
-### Hi there 👋
+## Yura's Portfolio 😄
 
-<!--
-**Yura-Qu/Yura-Qu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey there, Welcome to My GitHub Playground!
 
-Here are some ideas to get you started:
+### Know Me in 30s
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Statistics Bachelor Honours grad diving into data!
+- 📊 Skills: R, SQL, Excel enthusiast 
+- 🖼️ Self-teaching Tableau for awesome visualizations
+- 🐱 100% Cat person! 
+- 📫 How to reach me:
+  - Email = yuraqu.yq@gmail.com
+  - LinkedIn = linkedin.com/in/yura-qu-54a111203
+
