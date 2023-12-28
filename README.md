@@ -10,5 +10,5 @@
 - 🐱 100% Cat person! 
 - 📫 How to reach me:
   - Email = yuraqu.yq@gmail.com
-  - LinkedIn = linkedin.com/in/yura-qu-54a111203
+  - [LinkedIn](linkedin.com/in/yura-qu-54a111203)
 
