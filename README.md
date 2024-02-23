@@ -5,7 +5,7 @@
 ### Know Me in 30s
 
 - 🎓 Statistics Bachelor Honours grad diving into data!
-- 📊 Skills: R, SQL, PowerBI, Excel enthusiast 
+- 📊 Skills: R, SQL, Tableua, Excel enthusiast 
 - 🖼️ Self-teaching Tableau for awesome visualizations
 - 🐱 100% Cat person! 
 - 📫 How to reach me:
